@@ -1,6 +1,6 @@
 # EST-1 Algorithms and Problem Solving
 
-A structured, syllabus-aligned C++14 repository for **EST-1: Algorithms and Problem Solving**, modeled on the curriculum structure of [`Marvan236/EST-1-Algorithms-and-Problem-Solving`](https://github.com/Marvan236/EST-1-Algorithms-and-Problem-Solving). Every topic across **UNIT 3** and **UNITS 4 & 5** is organized into dedicated topic folders and self-contained problem modules with beginner-friendly explanations, step-by-step procedures, complexity analyses, and C++14 source files.
+A structured, syllabus-aligned C++14 repository for **EST-1: Algorithms and Problem Solving**, Every topic across **UNIT 3** and **UNITS 4 & 5** is organized into dedicated topic folders and self-contained problem modules with beginner-friendly explanations, step-by-step procedures, complexity analyses, and C++14 source files.
 
 ## Syllabus Curriculum Breakdown & Topic Coverage
 
